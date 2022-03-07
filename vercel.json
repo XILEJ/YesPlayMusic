@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://musicial-api.vercel.app/:match*"
+      "destination": "https://musicial-api.vercel.app/login/cellphone?phone=15238754018&password=Aa12345678/:match*"
     }
   ]
 }
